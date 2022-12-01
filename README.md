@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhoujy1321
+- 👋 Hi, I’m @zjy
 - 👀 I’m interested in music,sports,geography,history and so on.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on :unknown ToT,I'm learning ofr it.
